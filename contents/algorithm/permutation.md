@@ -28,4 +28,4 @@ def next_permutation(nums):
 ## References
 
 1. <https://en.wikipedia.org/wiki/Permutation>
-1. <https://docs.python.org/ko/3/library/itertools.html#itertools.permutations>
+1. <https://docs.python.org/3/library/itertools.html#itertools.permutations>
